@@ -1,0 +1,8 @@
+*.pyc
+.DS_Store
+*.txt
+done.txt
+todo.txt
+TODO.txt
+*.sublime-project
+*.sublime-workspace
