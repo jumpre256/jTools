@@ -1,8 +1,9 @@
-import jRandom, timeSum
+import jRandom, timeSumInterface
+#import timeSum
 
 def main():
     
-    timeSum.interface()
+    timeSumInterface.interface()
 
 
 if __name__ == "__main__":
